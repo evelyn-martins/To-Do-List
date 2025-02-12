@@ -1,6 +1,6 @@
 # To Do List
 
-<img src="/Image.png" alt="Tela projeto">
+<img src="public/Image.png" alt="Tela projeto">
 
 Um projeto simples de lista de tarefas onde você pode adicionar novas tarefas, marcar como feitas e remover tarefas. A aplicação foi desenvolvida utilizando React e JavaScript.
 
@@ -26,12 +26,12 @@ Para instalar o To Do List, siga estas etapas:
 
 1. Clone o repositório:
 ```
-git clone <link_do_repositório>
+git clone https://github.com/evelyn-martins/To-Do-List.git
 ```
 
 2. Navegue até a pasta do projeto:
 ```
-cd <nome_do_repositório>
+cd To-Do-List
 ```
 
 3. Instale as dependências:
